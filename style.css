@@ -1,0 +1,15 @@
+#myCanvas
+{
+border-width: 10px;
+background-color: lightblue;
+border-style: ridge;
+}
+body
+{
+    background-image: url(avenger_bg.jpg);
+}
+#head_info
+{
+    width: 600px;
+    margin-bottom: 10px;
+}
